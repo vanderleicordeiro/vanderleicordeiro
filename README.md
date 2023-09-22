@@ -1,6 +1,6 @@
 ### bem vindo ao meu perfil🇧🇷
 
-meu nome é marcelo paludetto
+meu nome é vanderlei cordeiro
 
 -Estou estudando na [alura]9https://www.alura.com.br
 -Estou me desenvolvendo na linguagem javaScript
